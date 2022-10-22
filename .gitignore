@@ -10,7 +10,9 @@ target/
 *.ipr
 
 ## avoid uploading sensitive leetcode info
-src/test
+/src/test
+/src/main/java/cyou/jelle/leetcodehelpers/
+
 
 ### Eclipse ###
 .apt_generated
