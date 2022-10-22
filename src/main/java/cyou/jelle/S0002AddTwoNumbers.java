@@ -2,7 +2,7 @@ package cyou.jelle;
 
 import cyou.jelle.leetcodehelpers.ListNode;
 
-public class Solution0002AddTwoNumbers {
+public class S0002AddTwoNumbers {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 
         ListNode firstResultNode = new ListNode();

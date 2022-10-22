@@ -3,7 +3,7 @@ package cyou.jelle;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution_0013_Roman_to_Integer {
+public class S0013RomanToInteger {
 
     //Constraints:
     //
