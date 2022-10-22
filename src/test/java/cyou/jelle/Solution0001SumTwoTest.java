@@ -2,7 +2,7 @@ package cyou.jelle;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class solution0001SumTwoTest {
+class Solution0001SumTwoTest {
     int[] nums = {2, 7, 11, 15};
     int target = 9;
 
